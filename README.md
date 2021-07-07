@@ -1,5 +1,13 @@
-# iphone-calculator-react
- This is a simple iphone calculator developed using react
+# Iphone Calculator React
+✏️ This is a simple iphone calculator developed using react ❗
+
+# Project demo link
+
+<a href="">Iphone calculator</a>
+
+# Screenshot
+
+![screenshots](https://github.com/Mithesh14/iphone-calculator-react/blob/main/src/assets/image1.jpg)
 
 # Getting Started with Create React App
 
