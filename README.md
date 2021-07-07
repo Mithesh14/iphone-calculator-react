@@ -3,7 +3,7 @@
 
 # Project demo link
 
-<a href="https://mithesh14.github.io/iphone-calculator-react/">Iphone calculator</a>
+<a href="">Iphone calculator</a>
 
 # Screenshot
 
